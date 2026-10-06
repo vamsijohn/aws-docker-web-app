@@ -85,4 +85,4 @@ docker ps
 ## 🌐 Live Application Verification
 Access the running web application live through any browser using the AWS EC2 Public IP:
 
-**Live URL:** http://107.22.151.229
+**Live Website Link:** [http://107.22.151.229](http://107.22.151.229)
